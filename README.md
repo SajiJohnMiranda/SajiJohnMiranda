@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🚀 Saji John Miranda | AI/ML Architect  
+## 🔥 Work & Project Specialization  
+✅ Machine Learning & Deep Learning  
+✅ NLP & Large Language Models (LLMs)  
+✅ Retrieval-Augmented Generation (RAG)  
+✅ AutoML & Hyperparameter Optimization  
+✅ Data Science & Feature Engineering  
+✅ Vector Databases (FAISS, Pinecone)  
+✅ MLOps (Docker, Kubernetes, CI/CD)  
+✅ GenAI & Prompt Engineering  
+✅ Cloud AI Solutions (AWS, GCP, Azure)  
 
-<!--
-**SajiJohnMiranda/SajiJohnMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Check out my AI projects below ⬇ 
