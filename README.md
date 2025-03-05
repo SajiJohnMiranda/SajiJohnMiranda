@@ -20,3 +20,7 @@ Developing GenAI-powered applications with LLMs & RAG systems
 Fine-tuning NLP models for adaptive learning & AI-driven query processing
 Optimizing deep learning models with AutoML & Hyperparameter tuning
 Designing AI architectures for real-time analytics & intelligent automation
+
+Consulting & Collaboration
+🚀 Open for ML/DL Consulting, AI Architecture Design, & Research Collaboration
+🤝 Available for freelance AI/ML projects & startup partnerships
