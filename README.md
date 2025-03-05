@@ -24,3 +24,4 @@ Designing AI architectures for real-time analytics & intelligent automation
 Consulting & Collaboration
 🚀 Open for ML/DL Consulting, AI Architecture Design, & Research Collaboration
 🤝 Available for freelance AI/ML projects & startup partnerships
+Phone: +919663522720
