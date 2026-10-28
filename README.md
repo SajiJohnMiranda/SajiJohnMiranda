@@ -1,5 +1,5 @@
-# 🚀 Saji John Miranda | AI/ML Architect  
-## 🔥 Work & Project Specialization  
+# Saji John Miranda | AI/ML Architect  
+## Work & Project Specialization  
 ✅ Agentic AI
 ✅ Machine Learning & Deep Learning  
 ✅ NLP & Large Language Models (LLMs)  
